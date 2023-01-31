@@ -32,8 +32,8 @@ It displays the current day at the top of the calender when a user opens the pla
 ## Links
 
 
-- Project URL:  https://github.com/smguerra/Console-Finances
-- Live Site URL:  https://smguerra.github.io/Password-Generator/
+- Project URL:  https://github.com/smguerra/work-day-scheduler
+- Live Site URL:  https://smguerra.github.io/work-day-scheduler/
 
 
 ## Author
