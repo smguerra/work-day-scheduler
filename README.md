@@ -15,7 +15,7 @@ It displays the current day at the top of the calender when a user opens the pla
 ## Screenshot
 
 
-
+![work-day-scheduler-screeshot](https://user-images.githubusercontent.com/118385737/215768878-4096bcf0-040f-4d20-9189-78924615b767.png)
 
 
 
